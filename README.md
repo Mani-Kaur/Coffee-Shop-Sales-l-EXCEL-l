@@ -31,7 +31,7 @@ An interactive Power BI dashboard was created to support data-driven business de
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Power BI
 - DAX
 - Excel / CSV
@@ -40,7 +40,7 @@ An interactive Power BI dashboard was created to support data-driven business de
 
 ---
 
-## 📐 DAX Measures Used
+##  DAX Measures Used
 
 ```DAX
 Total Sales = SUM(coffee_shop_sales[Total_bill])
@@ -64,7 +64,7 @@ The dashboard helps businesses:
 
 ---
 
-##  Author
+c##  Author
 - Your Name - Mani Kaur
 - LinkedIn Profile: [Mani Kaur](https://www.linkedin.com/in/mani-kaur9857)
 - GitHub Profile: [GitHub](https://github.com/Mani-Kaur)
