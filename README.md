@@ -64,7 +64,7 @@ The dashboard helps businesses:
 
 ---
 
-c##  Author
+##  Author
 - Your Name - Mani Kaur
 - LinkedIn Profile: [Mani Kaur](https://www.linkedin.com/in/mani-kaur9857)
 - GitHub Profile: [GitHub](https://github.com/Mani-Kaur)
